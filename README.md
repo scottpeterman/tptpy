@@ -2,9 +2,9 @@
 
 A terminal UI for interactively testing **TextFSM** and **TTP** templates against network device output — with live parsed results and auto-generated Python snippets you can drop straight into your automation.
 
-![Parse Tester TUI](screenshots/tui1.png)
+![Parse Tester TUI](https://raw.githubusercontent.com/scottpeterman/tptpy/main/screenshots/tui1.png)
 
-## Why This Exists
+## What this is for and why
 
 Writing TextFSM and TTP templates is an iterative process: tweak the template, run it, check the output, repeat. Most workflows involve bouncing between a text editor, a Python REPL, and maybe a browser-based tool that doesn't have your files.
 
