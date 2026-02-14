@@ -209,7 +209,7 @@ def generate_snippet(parser_type: str, source: str, template: str) -> str:
 TEXT_EXTENSIONS = {
     ".txt", ".log", ".cfg", ".conf", ".csv", ".json", ".yaml", ".yml",
     ".xml", ".textfsm", ".template", ".ttp", ".tpl", ".py", ".md",
-    ".ini", ".toml",
+    ".ini", ".toml",".raw"
 }
 
 

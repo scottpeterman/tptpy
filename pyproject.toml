@@ -1,10 +1,10 @@
 [build-system]
 requires = ["setuptools>=68.0", "setuptools-scm>=8.0"]
-build-backend = "setuptools.backends._legacy:_Backend"
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "tptpy"
-version = "1.0.0"
+version = "1.0.1"
 description = "A Textual TUI for interactively testing TextFSM and TTP templates with live parsing, JSON/table results, and exportable Python snippets."
 readme = "README.md"
 license = {text = "MIT"}
